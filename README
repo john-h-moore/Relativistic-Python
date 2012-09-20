@@ -12,6 +12,4 @@ terra.py - methods for calculating things relevant to Terra
 To Run:
 
 Linux:
-	~/AtomicRocket-Python/ $> python main.py
-
-
+	~/Relativistic-Python/ $> python main.py
